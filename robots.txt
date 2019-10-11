@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iewohphoh.andrewandkerry.com/sitemap.xml
